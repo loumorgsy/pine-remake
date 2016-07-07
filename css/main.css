@@ -95,17 +95,38 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+  /*================== FONTS ===============*/
+
+* {
+  font-family: 'Helvetica', sans-serif;
+}
+  /*================== FONTS END ===============*/
+
+  .logo-head {
+      width: 100px;
+      height: 100px;
+  }
+
+  .wrap-head {
+    height: 100vh;
+  }
 
 
 
+  .nav-ul {
+    display: flex;
+    text-decoration: none;
+  }
+
+  .nav-ul li  {
+    list-style: none;
 
 
+  }
 
-
-
-
-
-
+  p {
+  
+  }
 
 
 
